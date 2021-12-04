@@ -1,2 +1,57 @@
 # Java-Programming
-CF1101-1
+
+##### tags: `Jacky Wang` `CF1101-1`
+
+## Test
+
+
+
+## Chapter Exercises
+
+- [x] Chapter  1 Introduction to Computers, Programs, and Java
+- [x] Chapter  2 Elementary Programming
+- [x] Chapter  3 Selections
+- [x] Chapter  4 Mathematical Functions, Characters, and Strings
+- [x] Chapter  5 Loops
+- [x] Chapter  6 Methods
+- [x] Chapter  7 Single-Dimensional Arrays
+- [x] Chapter  8 Multidimensional Arrays
+- [x] Chapter  9 Objects and Classes
+- [x] Chapter 10 Object-Oriented Thinking
+- [x] Chapter 11 Inheritance and Polymorphism
+- [ ] Chapter 12 Exception Handling and Text I/O
+
+## Homework
+
+- [x] 作業一 (Part 1) 中序轉後序 - 分割
+- [x] 作業一 (Part 2) 中序轉後序
+- [x] 作業一 (Final) 中序轉後序 - 運算
+- [x] 作業二 - Area of Convex Polygon
+
+## Computer-Based Exam
+
+### Previous
+
+- [x] PrintPrimeNumbers
+- [x] 上機考古題 PA Palindromic Prime
+- [x] 上機考古題 PB You can say 11
+- [x] 上機考古題 PC- The BigInteger GCD, LCM and Prime
+- [x] 上機考古題 PD: Latin Square
+
+### First
+
+- [x] P1: Reverse and Add *
+- [x] P2: Science - day of the week *
+- [x] P3: BigDecimal Calculator **
+- [x] P4: Magic Square **
+- [x] P5: Prime Factorization ***
+
+### Second
+
+## Midterm Exam
+
+- [x] P1: Prime Factorization
+- [x] P2: Triangle
+- [x] P3: StringBuffer or StringBuilder
+- [x] P4: Latin Square
+- [x] P5: Rational Number
