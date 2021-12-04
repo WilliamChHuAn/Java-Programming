@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static class NumberFormatException extends Exception{
-    }
-
     public static int bin2Dec(String binaryString) throws NumberFormatException{
 
         for(int i = 0; i < binaryString.length(); i++){
