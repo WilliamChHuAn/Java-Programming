@@ -22,7 +22,7 @@
 - [x] Chapter  9 Objects and Classes
 - [x] Chapter 10 Object-Oriented Thinking
 - [x] Chapter 11 Inheritance and Polymorphism
-- [ ] Chapter 12 Exception Handling and Text I/O
+- [] Chapter 12 Exception Handling and Text I/O
 
 ## Homework
 
