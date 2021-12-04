@@ -4,7 +4,10 @@
 
 ## Test
 
-
+- [x] 練習-01
+- [x] 練習-02
+- [x] 練習-03
+- [x] 練習-04
 
 ## Chapter Exercises
 
