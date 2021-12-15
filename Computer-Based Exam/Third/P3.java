@@ -5,9 +5,9 @@ public class Main {
 
     public static class Point implements Comparable<Point>{
 
-        int x, y;
+        long x, y;
 
-        public Point(int x, int y){
+        public Point(long x, long y){
             this.x = x;
             this.y = y;
         }
@@ -42,7 +42,7 @@ public class Main {
 
         boolean flag = false;
 
-        while(input.hasNextInt()){
+        while(input.hasNextLong()){
 
             if(flag){
                 System.out.println();
@@ -55,11 +55,11 @@ public class Main {
             Point [] p = new Point[N];
 
             for(int i = 0; i < N; i++){
-                p[i] = new Point(input.nextInt(), input.nextInt());
+                p[i] = new Point(input.nextLong(), input.nextLong());
             }
 
             Arrays.sort(p);
-            int maxNum = p[0].x + p[0].y;
+            long maxNum = p[0].x + p[0].y;
             int maxPoint = 0;
 
             System.out.println("(" + p[0].x + "," + p[0].y + ")");
@@ -71,7 +71,7 @@ public class Main {
                 }
             }
             System.out.println("max num: " + maxNum);
-            System.out.println("point: " + "(" + p[maxPoint].x + "," + p[maxPoint].y + ")");
+            System.out.println("point:" + "(" + p[maxPoint].x + "," + p[maxPoint].y + ")");
         }
     }
 }
