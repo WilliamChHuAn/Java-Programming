@@ -9,4 +9,8 @@
     - 考試過的
 - P5: Prime Factorization ***
 
-# Second
+# Third
+
+- P4: 四則運算式
+    - 改第一次上機考的 P3
+        > 我就爛 owo
