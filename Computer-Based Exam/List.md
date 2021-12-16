@@ -9,6 +9,15 @@
     - 考試過的
 - P5: Prime Factorization ***
 
+# Midterm Exam
+
+- P1: Prime Factorization
+- P2: Triangle
+- P3: StringBuffer or StringBuilder
+- P4: Latin Square
+- P5: Rational Number
+> 待補
+
 # Third
 
 - P1: Vector and ArrayDeque
