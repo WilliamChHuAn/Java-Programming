@@ -49,12 +49,18 @@
 - [x] P4: Magic Square **
 - [x] P5: Prime Factorization ***
 
-### Second
-
-## Midterm Exam
+### Midterm Exam
 
 - [x] P1: Prime Factorization
 - [x] P2: Triangle
 - [x] P3: StringBuffer or StringBuilder
 - [x] P4: Latin Square
 - [x] P5: Rational Number
+
+### Third
+
+- [x] P1: Vector and ArrayDeque
+- [x] P2: The Complex Class
+- [x] P3: 座標點陣列排序
+- [x] P4: 四則運算式
+- [x] P5: Bin Packing Using First Fit
