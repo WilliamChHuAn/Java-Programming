@@ -30,6 +30,8 @@
 - [x] 作業一 (Part 2) 中序轉後序
 - [x] 作業一 (Final) 中序轉後序 - 運算
 - [x] 作業二 - Area of Convex Polygon
+- [x] 作業三 - Exception Handling
+- [ ] 作業四 - Generic Methods for Min() and Max()
 
 ## Computer-Based Exam
 
