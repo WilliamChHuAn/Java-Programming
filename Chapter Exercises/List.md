@@ -11,3 +11,4 @@
 - Chapter 11 Inheritance and Polymorphism
 - Chapter 12 Exception Handling and Text I/O
 - Chapter 13 Abstract Classes and Interfaces
+- Chapter 19 Generics
