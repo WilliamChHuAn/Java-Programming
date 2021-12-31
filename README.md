@@ -23,8 +23,8 @@
 - [x] Chapter 10 Object-Oriented Thinking
 - [x] Chapter 11 Inheritance and Polymorphism
 - [x] Chapter 12 Exception Handling and Text I/O
-- [ ] Chapter 13 Abstract Classes and Interfaces
-- [ ] Chapter 19 Generics
+- [x] Chapter 13 Abstract Classes and Interfaces
+- [x] Chapter 19 Generics
 
 ## Homework
 
