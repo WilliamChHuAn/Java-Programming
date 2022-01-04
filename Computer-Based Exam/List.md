@@ -12,11 +12,13 @@
 # Midterm Exam
 
 - P1: Prime Factorization
+    - 考試過的
 - P2: Triangle
+    - 會有浮點數誤差
 - P3: StringBuffer or StringBuilder
 - P4: Latin Square
+    - 考試過的
 - P5: Rational Number
-> 待補
 
 # Third
 
