@@ -1,3 +1,10 @@
+# Previous
+
+- 上機考古題 PA Palindromic Prime
+- 上機考古題 PB You can say 11
+- 上機考古題 PC- The BigInteger GCD, LCM and Prime
+- 上機考古題 PD: Latin Square
+
 # First
 
 - P1: Reverse and Add *
