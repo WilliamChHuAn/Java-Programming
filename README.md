@@ -42,8 +42,8 @@
 - [x] PrintPrimeNumbers
 - [x] 上機考古題 PA Palindromic Prime
 - [x] 上機考古題 PB You can say 11
-- [x] 上機考古題 PC- The BigInteger GCD, LCM and Prime
-- [x] 上機考古題 PD: Latin Square
+- [x] 上機考古題 PC The BigInteger GCD, LCM and Prime
+- [x] 上機考古題 PD Latin Square
 
 ### First
 
