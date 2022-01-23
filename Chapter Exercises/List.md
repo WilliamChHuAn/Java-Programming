@@ -1,18 +1,69 @@
 - Chapter  1 Introduction to Computers, Programs, and Java
-    - 1-13
+    - [x] Chapter 01-13
 - Chapter  2 Elementary Programming
-    - 2-6
-    - 2-15
-    - 2-19
+    - [x] Chapter 02-06
+    - [x] Chapter 02-15
+    - [x] Chapter 02-19
 - Chapter  3 Selections
+    - [x] Chapter 03-11
+    - [x] Chapter 03-22
 - Chapter  4 Mathematical Functions, Characters, and Strings
+    - [x] Chapter 04-05
+    - [x] Chapter 04-11
+    - [x] Chapter 04-22
 - Chapter  5 Loops
+    - [x] Chapter 05-16
+    - [x] Chapter 05-25
+    - [x] Chapter 05-26
+    - [x] Chapter 05-29
+    - [x] Chapter 05-33
+    - [x] Chapter 05-41
+    - [x] Chapter 05-51
 - Chapter  6 Methods
+    - [x] Chapter 06-02
+    - [x] Chapter 06-03
+    - [x] Chapter 06-13
+    - [x] Chapter 06-19
+    - [x] Chapter 06-26
+    - [x] Chapter 06-27
+    - [x] Chapter 06-29
 - Chapter  7 Single-Dimensional Arrays
+    - [x] Chapter 07-05
+    - [x] Chapter 07-11
+    - [x] Chapter 07-31
+    - [x] Chapter 07-34
 - Chapter  8 Multidimensional Arrays
+    - [x] Chapter 08-06
+    - [x] Chapter 08-13
+    - [x] Chapter 08-19
+    - [x] Chapter 08-36
 - Chapter  9 Objects and Classes
+    - [x] Chapter 09-09
+    - [x] Chapter 09-10
+    - [x] Chapter 09-11
+    - [x] Chapter 09-12
 - Chapter 10 Object-Oriented Thinking
+    - [x] Chapter 10-04
+    - [x] Chapter 10-10
+    - [x] Chapter 10-11
+    - [x] Chapter 10-18
+    - [x] Chapter 10-26
 - Chapter 11 Inheritance and Polymorphism
+    - [x] Chapter 11-01
+    - [x] Chapter 11-09
+    - [x] Chapter 11-13
+    - [x] Chapter 11-17
 - Chapter 12 Exception Handling and Text I/O
+    - [x] Chapter 12-05
+    - [x] Chapter 12-07
+    - [x] Chapter 12-09
 - Chapter 13 Abstract Classes and Interfaces
+    - [x] Chapter 13-10
+    - [x] Chapter 13-11
+    - [x] Chapter 13-15
+    - [x] Chapter 13-17
+    - [x] Chapter 13-18
 - Chapter 19 Generics
+    - [x] Chapter 19-03
+    - [x] Chapter 19-04
+    - [x] Chapter 19-07
