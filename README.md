@@ -72,3 +72,11 @@
 - [x] P3: 座標點陣列排序
 - [x] P4: 四則運算式
 - [x] P5: Bin Packing Using First Fit
+
+### Fourth
+
+- [x] P1: Using Iterator and ListIterator
+- [x] P2: Binary Search
+- [x] P3: 座標點陣列排序
+- [x] P4: BigDecimal Calculator
+- [x] P5: Prime Factorization

@@ -19,12 +19,12 @@
 # Midterm Exam
 
 - P1: Prime Factorization
-    - 考試過的
+    - 同第一次上機
 - P2: Triangle
     - 會有浮點數誤差
 - P3: StringBuffer or StringBuilder
 - P4: Latin Square
-    - 考試過的
+    - 同考古題
 - P5: Rational Number
 
 # Third
@@ -40,3 +40,16 @@
     - 改第一次上機考的 P3
         > 我就爛 owo
 - P5: Bin Packing Using First Fit
+
+# Fourth
+
+- P1: Using Iterator and ListIterator
+    - 考試過的
+- P2: Binary Search
+    - 考試過的
+- P3: 座標點陣列排序
+    - 同第三次上機
+- P4: BigDecimal Calculator
+    - 同第一次上機
+- P5: Prime Factorization
+    - 同第一次上機
