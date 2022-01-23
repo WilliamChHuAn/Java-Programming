@@ -10,6 +10,8 @@
 - [x] 練習-02
 - [x] 練習-03
 - [x] 練習-04
+- [x] PrintPrimeNumbers
+- [x] PascalTriangle
 
 ## Chapter Exercises
 

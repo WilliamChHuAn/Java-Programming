@@ -1,5 +1,9 @@
 - Chapter  1 Introduction to Computers, Programs, and Java
+    - 1-13
 - Chapter  2 Elementary Programming
+    - 2-6
+    - 2-15
+    - 2-19
 - Chapter  3 Selections
 - Chapter  4 Mathematical Functions, Characters, and Strings
 - Chapter  5 Loops
